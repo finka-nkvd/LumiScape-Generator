@@ -1,0 +1,5 @@
+{
+  "name": "LumiScape Generator",
+  "description": "Генератор реалистичных пейзажей с детальной настройкой параметров съемки, погоды и времени суток.",
+  "requestFramePermissions": []
+}
